@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy! <br/>>Programmer</a>, <a 
+<h1>Hi, I'm Jeremy! <br/>>Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
